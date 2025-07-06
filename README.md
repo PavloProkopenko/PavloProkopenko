@@ -1,10 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]()
 <h1 align="center">Hi 👋, I'm Pavlo Prokopenko</h1>
-<h3 align="center">A passionate react native developer from Ukraine</h3>
+<h3 align="center">A passionate frontend developer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavloprokopenko&label=Profile%20views&color=0e75b6&style=flat" alt="pavloprokopenko" /> </p>
-
-- 🌱 I’m currently learning **Advanced React Native**
 
 - 💬 Ask me about **Android, React**
 
@@ -13,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pavlo-prokopenko-866436263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavlo-prokopenko-866436263/" height="30" width="40" /></a>
-<a href="https://instagram.com/imp1k33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imp1k33" height="30" width="40" /></a>
+<a href="https://instagram.com/w00ntx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imp1k33" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
